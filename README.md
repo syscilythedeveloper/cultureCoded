@@ -22,7 +22,7 @@ This repo contains coding samples that pair with each post in The Culture Coded 
 ✅ Clean, well-commented Python code (JavaScript and others coming soon)
 ✅ Occasional notes, hints, and diagrams to deepen understanding
 
-## How to use this repo
+## How to Use:
 
 ```bash
 git clone https://github.com/syscily/cultureCoded.git
@@ -44,3 +44,7 @@ You can read the full breakdowns and follow the series on [Medium](https://mediu
 
 Got a better metaphor? Want to add a new language implementation?  
 Open a PR or drop an issue — I'd love to build this together.
+
+## Contact
+
+Feel free to connect with me on [LinkedIn](https://linkedin.com/in/syscilybrown)
