@@ -1,26 +1,26 @@
-## Welcome
+## The Culture Coded Dev - Code Samples
 
-Welcome to the companion repo for **The Culture Coded Dev** — a series where I make Data Structures and Algorithms (DSA) actually make sense, using real-life and culturally grounded metaphors.
+Welcome to the companion repo for **The Culture Coded Dev** — a series where I break down Data Structures and Algorithms (DSA) using real-life, culturally grounded metaphors that actually stick.
 
 Whether you're:
 
-- 👩🏾‍💻 A software engineer trying to brush up on interview patterns
-- 🎓 A bootcamp grad looking to really _get it_
-- 🌟 Or someone who just learns better through lived experience and culture...
+- 👩🏾‍💻 A software engineer brushing up for interviews
+- 🎓 A bootcamp grad trying to really _get it_
+- 🌟 Or someone who just learns better when the learning reflects the culture...
 
-**This repo (and series) is for you.**
+**This repo — and the full series — is for you.**
 
-Each file will walk you through a different DSA concept — starting with:
-two-pointer → Two Pointer Pattern (ft. Beyoncé’s concert finale)
+Each file walks through a different DSA concept — starting with:
+**`two-pointer` → Two Pointer Pattern (ft. Beyoncé’s concert finale)**
 
 ## 📚 What You’ll Find in This Repo
 
 This repo contains coding samples that pair with each post in The Culture Coded Dev series. Each file includes:
 
-✅ Starter problems you can clone and code along with
-✅ Fully worked examples based on culturally relevant scenarios
-✅ Clean, well-commented Python code (JavaScript and others coming soon)
-✅ Occasional notes, hints, and diagrams to deepen understanding
+- Starter problems you can clone and code along with
+- Fully worked examples based on culturally relevant scenarios
+- Clean, well-commented Python code (JavaScript and others coming soon)
+- Occasional notes, hints, and diagrams to deepen understanding
 
 ## How to Use:
 
@@ -31,7 +31,9 @@ cd cultureCoded
 
 ## 🔗 Follow Along
 
-You can read the full breakdowns and follow the series on [Medium](https://medium.com/@culturecoded.dev)
+New posts drop regularly!  
+Catch the full breakdowns on [Medium](https://medium.com/@culturecoded.dev)  
+and stay in the loop as the series grows.
 
 ## 💡 Every Lesson Follows the Same Structure:
 
@@ -45,6 +47,6 @@ You can read the full breakdowns and follow the series on [Medium](https://mediu
 Got a better metaphor? Want to add a new language implementation?  
 Open a PR or drop an issue — I'd love to build this together.
 
-## Contact
+## 👋🏾 Stay Connected
 
-Feel free to connect with me on [LinkedIn](https://linkedin.com/in/syscilybrown)
+Feel free to connect with me on [LinkedIn](https://linkedin.com/in/syscilybrown) or follow along @ [culturecoded.dev](https://medium.com/@culturecoded.dev)
